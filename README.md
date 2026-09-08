@@ -2,6 +2,10 @@
 
 A simple Instagram-inspired feed built as a solo project for the Scrimba Fullstack Developer Path.
 
+## Live Demo
+
+[View Oldagram](https://oldagram-sm.netlify.app/)
+
 ## Features
 
 - Dynamically renders posts from JavaScript data
