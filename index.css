@@ -19,10 +19,20 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 0 15px;
+    border-bottom: 1px solid #C6C6C6;
 }
 
 .logo {
     width: 127px;
+}
+
+#posts-container {
+    background: #EDEDED;
+}
+
+article {
+    background-color: white;
+    margin-bottom: 25px;
 }
 
 .user-avatar {
